@@ -1,43 +1,43 @@
 # Reflection Journal for Week 3
 **Student Name:** Vladislav Zakatov 
-**Week 3:** 04.09.23 - 10.09.23
 
+**Week 3:** 04.09.23 - 10.09.23
 
 ## Peer Assessment
 
-**Group Performance**: Overall, I'd rate our group's performance at 4/5 for this week. Our team dynamics are evolving, and I'm optimistic about where we're headed.
+**Group Performance**: I think our group did pretty well this week, getting a 4 out of 5. I believe we're getting better at working together.
 
 | Group Member's Name | Rate (1-5) | Justification |
 |---------------------|------------|----------------|
-| Bijay Karki         | 5          | Bijay has exhibited exemplary leadership qualities this week. His readiness to assist and maintain awareness on all fronts makes him a pillar in our group. He's deeply vested in each topic, making him invaluable to our efforts. |
-| Himanshu Hooda      | 5          | Himanshu arguably grasps the course material the best amongst us. His ability to elucidate complex topics and lend a helping hand cements his position as a significant asset to the group. |
-| Siddarth Singotam   | 4          | Siddarth's passion is evident. While he might need to catch up on some study material, his enthusiasm and readiness to assist can't be overlooked. |
-| [Your Name]         | 3          | Speaking for myself, I'd rate my performance at 3/5. Time constraints and a comparative lack of knowledge hindered my active participation. However, I'm hopeful that as the course progresses, my contribution will amplify. |
+| Bijay Karki         | 5          | Bijay is a strong leader. He's always ready to help and keeps track of everything. He's really into every topic we discuss. |
+| Himanshu Hooda      | 5          | Himanshu knows the course material very well. He explains tough stuff and is always there to help. |
+| Siddarth Singotam   | 4          | Siddarth is super excited and helps a lot. He might need to study a bit more, but he's always trying hard. |
+| Vladislav Zakatov   | 3          | For myself, I'd say I did okay, maybe a 3 out of 5. I couldn't be as active because I was busy and needed to learn more. But I hope to do better soon. |
 
-**Group Cohesiveness**: Our group has fostered an atmosphere of mutual respect and understanding. Each member is candid about their strengths and weaknesses, which has significantly benefited our collaborative efforts. I believe a true assessment of our group's capabilities will manifest once we undertake more intensive project tasks.
+**Group Cohesiveness**: We all get along well in our group. Everyone is honest about what they're good at and what they need to work on. I think we'll show our real strengths when we start big projects.
 
 ## Reflection
 
 ### Challenges Faced:
-This week was a medley of challenges. I grappled with understanding some intricate coding concepts. Moreover, managing time efficiently to juggle between lectures, labs, and personal commitments was strenuous. Navigating group dynamics also posed occasional hurdles, but collaborative efforts eased the way.
+This week was tough. I had a hard time with some coding stuff. It was hard to find time for everything like classes, labs, and my own stuff. Sometimes working in the group was tricky, but we figured it out together. Every day was a new learning experience.
 
 ### What Went Well and Lessons Learned:
-This week, independent coding took precedence. The experience enhanced my understanding of code intricacies. Mastering git and seeking help from teammates, online resources, and CHATGPT was a significant triumph. A pivotal lesson learned was the need to allocate dedicated post-lecture time for labs, ensuring a deep dive into the material.
+I did a lot of coding by myself this week. This helped me understand coding better. I got better at using git, asked my teammates and online for help, and even talked to CHATGPT. I learned that I should set aside time after class to go over labs. This will help me understand things deeper.
 
 ### Key Learning:
-The journey into Frontend and Backend deepened my understanding of Express.js, particularly with routers and controllers. On the frontend, concepts like array destructuring, React events, and state management using the useState Hook provided insights into dynamic web app creation. Additionally, project lectures enriched knowledge about MVC patterns, the Event Loop, and the importance of refactoring.
+I learned more about how to build the Frontend and Backend of websites. I understood how Express.js works, especially the parts about routers and controllers. I also learned how to use React for building parts of websites. The classes taught me about the MVC pattern, how events work in coding, and why it's important to organize code well. Every day had something new to offer.
 
 ### Coping Strategies:
-**Academic Progress**: This week, though devoid of grades, marked significant academic advancement. The shift to independent coding and enhanced git understanding stands testimony to this.
+**Academic Progress**: Even though I didn't get grades this week, I learned a lot. I did a lot of coding on my own and got better at using git. Each challenge pushed me to do better.
 
-**Soft Skills Development**: My independent coding efforts boosted problem-solving and critical thinking. Time management surfaced as an area needing attention, while collaborative efforts polished interpersonal skills.
+**Soft Skills Development**: Working on my own helped me think and solve problems. I need to get better at managing my time. Working with others also helped me learn to talk and listen better. Every discussion brought new insights.
 
-**Project Management**: This week didn't witness project steps, but I foresee the impending week brimming with challenges and opportunities.
+**Project Management**: We didn't start the project this week, but I think next week will be busy with lots of new things to do. I'm ready for whatever comes next.
 
 ### Final Thoughts:
-The week was an amalgamation of triumphs, lessons, and realizations. Every challenge is a stepping stone, and every lesson propels growth.
+This week had ups and downs. But every hard part was a chance to learn. I'm growing and getting better every day.
 
 ### Next Steps:
-For the upcoming week, my intent is to channelize focus on lecture materials, ensuring a proactive approach. Eagerly awaiting the advanced coding insights as hinted by Sami, I believe it'll provide a strong foundation for our group project.
+Next week, I want to focus on the class materials and stay ahead. I'm waiting for Sami's next coding tips. I think this will help us with our group project. I'm excited for what's coming up.
 
 **Week 3:** 10.09.23
