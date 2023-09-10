@@ -1,20 +1,20 @@
 import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Navigation from './components/Navigation';
-import Home from './components/Home';
-import About from './components/About';
-import Contact from './components/Contact';
+import HomePage from './components/HomePage';
+import PriceList from './components/PriceList';
+import ContactUs from './components/ContactUs';
 import NotFound from './components/NotFound';
-import Layout from "./components/Layout";
+import Layout from './components/Layout';
 
 function App() {
   return (
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
-          <Route index element={<Home />} />
-          <Route path="About" element={<About />} />
-          <Route path="contact" element={<Contact />} />
+          <Route index element={<HomePage />} />
+          <Route path="price-list" element={<PriceList />} />
+          <Route path="contact-us" element={<ContactUs />} />
           <Route path="*" element={<NotFound />} />
         </Route>
       </Routes>
